@@ -1,0 +1,29 @@
+{
+  "kind": "collectionType",
+  "collectionName": "title_slides",
+  "info": {
+    "singularName": "title-slide",
+    "pluralName": "title-slides",
+    "displayName": "Главный слайдер",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title_part_1": {
+      "type": "string",
+      "unique": true,
+      "maxLength": 10,
+      "required": false
+    },
+    "description": {
+      "type": "text"
+    },
+    "title_part_2": {
+      "type": "string",
+      "maxLength": 12
+    }
+  }
+}

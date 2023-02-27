@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_shared_kontakty",
+  "info": {
+    "displayName": "Контакты"
+  },
+  "options": {},
+  "attributes": {
+    "tel": {
+      "type": "string"
+    },
+    "mailto": {
+      "type": "email"
+    }
+  }
+}

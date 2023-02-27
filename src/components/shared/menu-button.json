@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_shared_menu_buttons",
+  "info": {
+    "displayName": "MenuButton"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    }
+  }
+}
